@@ -2,9 +2,13 @@ body{
   color: #000;
   font-family: sans-serif;
   padding:0px;
-  background: #98BEF0;
+  background: #C689C6;
 }
-
+h1{
+  text-align: center;
+  margin-top: 200px;
+  font-size: 70px;
+}
 .stopwatch{
   margin: auto auto;
   width: 402px;
